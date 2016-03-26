@@ -117,6 +117,7 @@
 										{!! Form::text('DOB','DOB...',array('class' => 'form-about-yourself form-control')) !!}
 			                        </div>
 										{!! Form::submit('Sign me up!', array('class' => 'btn')) !!}
+								Test GIT
 
 								{!! Form::close() !!}
 		                    </div>
